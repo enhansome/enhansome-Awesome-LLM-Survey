@@ -14,7 +14,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12204
+            "stars": 12205
           }
         },
         {
@@ -453,10 +453,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T02:37:33Z",
+            "last_commit": "2026-08-14T01:31:10Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17973
+            "stars": 17977
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3262
+            "stars": 3264
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-13T11:29:32Z",
             "owner": "swordlidev",
             "repo": "Evaluation-Multimodal-LLMs-Survey",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3421
+            "stars": 3423
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:33:31.150Z",
+    "last_updated": "2026-08-14T09:20:07.457Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
