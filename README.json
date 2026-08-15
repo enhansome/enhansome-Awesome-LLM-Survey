@@ -42,7 +42,7 @@
             "last_commit": "2025-07-21T05:29:48Z",
             "owner": "anas-zafar",
             "repo": "LLM-Survey",
-            "stars": 41
+            "stars": 42
           }
         }
       ],
@@ -391,7 +391,7 @@
             "last_commit": "2025-06-23T01:57:02Z",
             "owner": "AIoT-MLSys-Lab",
             "repo": "Efficient-LLMs-Survey",
-            "stars": 1259
+            "stars": 1257
           }
         },
         {
@@ -453,7 +453,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-14T01:31:10Z",
+            "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
             "stars": 17977
@@ -546,7 +546,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3423
+            "stars": 3425
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-01-17T03:14:41Z",
             "owner": "CHIANGEL",
             "repo": "Awesome-LLM-for-RecSys",
-            "stars": 1553
+            "stars": 1550
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:20:07.457Z",
+    "last_updated": "2026-08-15T08:45:00.088Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
