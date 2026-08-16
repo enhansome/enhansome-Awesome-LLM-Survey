@@ -14,7 +14,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12205
+            "stars": 12206
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-08T18:26:44Z",
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10197
+            "stars": 10198
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8171
+            "stars": 8172
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2024-10-11T08:18:02Z",
             "owner": "MiuLab",
             "repo": "PersonaLLM-Survey",
-            "stars": 117
+            "stars": 118
           }
         }
       ],
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17977
+            "stars": 17978
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3264
+            "stars": 3265
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3425
+            "stars": 3424
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-03T10:03:29Z",
             "owner": "NLP2CT",
             "repo": "LLM-generated-Text-Detection",
-            "stars": 249
+            "stars": 250
           }
         }
       ],
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:45:00.088Z",
+    "last_updated": "2026-08-16T08:47:04.199Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
