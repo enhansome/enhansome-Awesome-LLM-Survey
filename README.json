@@ -28,7 +28,7 @@
             "last_commit": "2026-04-08T18:26:44Z",
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10198
+            "stars": 10199
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2025-02-20T00:59:30Z",
             "owner": "Paitesanshi",
             "repo": "LLM-Agent-Survey",
-            "stars": 2911
+            "stars": 2910
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-12T07:01:51Z",
             "owner": "yunlong10",
             "repo": "Awesome-LLMs-for-Video-Understanding",
-            "stars": 3265
+            "stars": 3266
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2024-11-07T20:14:46Z",
             "owner": "awaisrauf",
             "repo": "Awesome-CV-Foundational-Models",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3424
+            "stars": 3425
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2026-04-25T06:08:16Z",
             "owner": "Jianing-Qiu",
             "repo": "Awesome-Healthcare-Foundation-Models",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:47:04.199Z",
+    "last_updated": "2026-08-17T09:00:28.265Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
