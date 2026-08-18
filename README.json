@@ -14,7 +14,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12206
+            "stars": 12207
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-06-08T15:02:47Z",
             "owner": "zzli2022",
             "repo": "Awesome-System2-Reasoning-LLM",
-            "stars": 1352
+            "stars": 1351
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-03-11T03:47:03Z",
             "owner": "lmmlzn",
             "repo": "Awesome-LLMs-Datasets",
-            "stars": 1482
+            "stars": 1481
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17978
+            "stars": 17979
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2024-11-07T20:14:46Z",
             "owner": "awaisrauf",
             "repo": "Awesome-CV-Foundational-Models",
-            "stars": 551
+            "stars": 552
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-05-20T07:33:12Z",
             "owner": "codefuse-ai",
             "repo": "Awesome-Code-LLM",
-            "stars": 3425
+            "stars": 3426
           }
         },
         {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:00:28.265Z",
+    "last_updated": "2026-08-18T08:53:23.129Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
