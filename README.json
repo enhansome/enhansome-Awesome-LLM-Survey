@@ -332,7 +332,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8173
+                "stars": 8174
               }
             },
             {
@@ -779,8 +779,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:54:17.341Z",
+    "last_updated": "2026-08-19T12:07:32.003Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
+    "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
     "enhanced_repository_description": null,
