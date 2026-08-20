@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12206
+            "stars": 12207
           }
         },
         {
@@ -105,7 +105,7 @@
                 "last_commit": "2023-09-11T03:38:05Z",
                 "owner": "GaryYufei",
                 "repo": "AlignLLMHumanSurvey",
-                "stars": 742
+                "stars": 741
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2024-11-03T12:51:24Z",
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-08-14T17:17:50Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17983
+                "stars": 17985
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-12T07:01:51Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3267
+                "stars": 3268
               }
             },
             {
@@ -583,7 +583,7 @@
                 "last_commit": "2026-05-20T07:33:12Z",
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3426
+                "stars": 3429
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2025-03-17T11:31:02Z",
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2304
+                "stars": 2305
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:32.003Z",
+    "last_updated": "2026-08-20T08:56:33.329Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
