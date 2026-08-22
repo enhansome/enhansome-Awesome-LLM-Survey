@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12205
+            "stars": 12206
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-08T18:26:44Z",
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10198
+            "stars": 10199
           }
         },
         {
@@ -421,7 +421,7 @@
                 "last_commit": "2025-06-23T01:57:02Z",
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
-                "stars": 1256
+                "stars": 1257
               }
             }
           ],
@@ -483,10 +483,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-14T17:17:50Z",
+                "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17985
+                "stars": 17987
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-12T07:01:51Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3267
+                "stars": 3270
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:57:51.154Z",
+    "last_updated": "2026-08-22T08:47:42.951Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
