@@ -148,7 +148,7 @@
                 "last_commit": "2025-01-16T12:25:06Z",
                 "owner": "zchuz",
                 "repo": "CoT-Reasoning-Survey",
-                "stars": 500
+                "stars": 501
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2026-08-12T07:01:51Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3270
+                "stars": 3271
               }
             },
             {
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:47:42.951Z",
+    "last_updated": "2026-08-23T08:48:28.508Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",

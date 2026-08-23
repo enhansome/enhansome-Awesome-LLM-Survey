@@ -121,7 +121,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Chain of Thought for LLM
 
-* A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [\[paper\]](https://arxiv.org/abs/2309.06256)[\[project\]](https://github.com/zchuz/CoT-Reasoning-Survey) ⭐ 500 | 🐛 0 | 📅 2025-01-16
+* A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [\[paper\]](https://arxiv.org/abs/2309.06256)[\[project\]](https://github.com/zchuz/CoT-Reasoning-Survey) ⭐ 501 | 🐛 0 | 📅 2025-01-16
 
 * Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.11797.pdf) [\[project\]](https://github.com/Zoeyyao27/CoT-Igniting-Agent) ⭐ 365 | 🐛 0 | 📅 2023-11-25
 
@@ -174,7 +174,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Evaluation of LLM
 
-* Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.19736.pdf)[\[project\]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) ⭐ 806 | 🐛 28 | 📅 2024-05-08
+* Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.19736.pdf)[\[project\]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) ⭐ 807 | 🐛 28 | 📅 2024-05-08
 
 * A Survey on Evaluation of Large Language Models, 2023.07 [\[paper\]](https://arxiv.org/abs/2307.03109)[\[project\]](https://llm-eval.github.io/)
 
@@ -201,7 +201,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Graph for LLM
 
 * A Survey of Graph Meets Large Language Model: Progress and Future Directions, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.12399)
-* Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.02783.pdf) [\[project\]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) ⭐ 996 | 🐛 0 | 📅 2025-03-02
+* Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.02783.pdf) [\[project\]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) ⭐ 997 | 🐛 0 | 📅 2025-03-02
 
 ### Long-Context for LLM
 
@@ -224,7 +224,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 * Knowledge Editing for Large Language Models: A Survey, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.16218.pdf)
 
-* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,901 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14
+* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,902 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14
 
 * Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph, 2023.08 [\[paper\]](https://arxiv.org/pdf/2308.13534.pdf)
 
@@ -298,7 +298,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 * A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,987 | 🐛 111 | 📅 2026-08-21
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,270 | 🐛 7 | 📅 2026-08-12
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,271 | 🐛 7 | 📅 2026-08-12
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 551 | 🐛 5 | 📅 2024-11-07
 
@@ -392,7 +392,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### LLM for Autonomous Driving
 
 * A Survey on Multimodal Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.12320.pdf)
-* A Survey of Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.01043)[\[project\]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ⭐ 1,891 | 🐛 2 | 📅 2026-06-22
+* A Survey of Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.01043)[\[project\]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ⭐ 1,892 | 🐛 2 | 📅 2026-06-22
 
 ### LLM for Time Series
 
@@ -428,7 +428,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Information Extraction
 
-* Large Language Models for Generative Information Extraction: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17617.pdf) [\[project\]](https://github.com/quqxui/Awesome-LLM4IE-Papers) ⭐ 1,059 | 🐛 0 | 📅 2024-11-18
+* Large Language Models for Generative Information Extraction: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17617.pdf) [\[project\]](https://github.com/quqxui/Awesome-LLM4IE-Papers) ⭐ 1,060 | 🐛 0 | 📅 2024-11-18
 
 ### LLM for Data Annotation
 
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
