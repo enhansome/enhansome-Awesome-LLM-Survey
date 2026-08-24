@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12204
+            "stars": 12205
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-08T18:26:44Z",
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10200
+            "stars": 10201
           }
         },
         {
@@ -207,6 +207,28 @@
           "description": null,
           "node_type": "group",
           "title": "Prompt Engineering for LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Retrieval-Augmented Generation for Large Language Models: A Survey, 2023.12 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732328810,
+                "language": null,
+                "last_commit": "2024-05-08T05:55:17Z",
+                "owner": "Tongji-KGLLM",
+                "repo": "RAG-Survey",
+                "stars": 2139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Retrieval-Augmented LLM"
         }
       ],
       "title": "Prompt of LLM"
@@ -270,6 +292,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711546301,
+                "language": null,
+                "last_commit": "2024-05-08T17:36:48Z",
+                "owner": "tjunlp-lab",
+                "repo": "Awesome-LLMs-Evaluation-Papers",
+                "stars": 807
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluation of LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[paper]",
               "description": "[project]",
               "children": [],
@@ -317,6 +361,138 @@
           "description": null,
           "node_type": "group",
           "title": "Reasoning with LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Attention Heads, 2024.07 [project]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823700612,
+                "language": "TeX",
+                "last_commit": "2025-03-02T10:35:09Z",
+                "owner": "IAAR-Shanghai",
+                "repo": "Awesome-Attention-Heads",
+                "stars": 413
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explainability for LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672673877,
+                "language": null,
+                "last_commit": "2025-03-02T01:40:10Z",
+                "owner": "PeterGriffinJin",
+                "repo": "Awesome-Language-Model-on-Graphs",
+                "stars": 997
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graph for LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity, 2023.10 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702921298,
+                "language": null,
+                "last_commit": "2026-03-28T15:54:57Z",
+                "owner": "wangcunxiang",
+                "repo": "LLM-Factuality-Survey",
+                "stars": 339
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Factuality in LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638156745,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-14T12:47:07Z",
+                "owner": "zjunlp",
+                "repo": "EasyEdit",
+                "stars": 2902
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Knowledge for LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, 2023.08 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674826875,
+                "language": null,
+                "last_commit": "2024-10-28T23:35:00Z",
+                "owner": "teacherpeterpan",
+                "repo": "self-correction-llm-papers",
+                "stars": 573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-Correction for LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Survey of Large Language Models Attribution, 2023.11 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694050022,
+                "language": null,
+                "last_commit": "2026-01-14T05:33:16Z",
+                "owner": "HITsz-TMG",
+                "repo": "awesome-llm-attributions",
+                "stars": 229
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Attributions for LLM"
         },
         {
           "children": [
@@ -465,6 +641,28 @@
           "description": null,
           "node_type": "group",
           "title": "Data of LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Continual Learning with Pre-Trained Models: A Survey, 2024.01 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685070560,
+                "language": "Python",
+                "last_commit": "2026-01-29T04:38:49Z",
+                "owner": "LAMDA-CL",
+                "repo": "LAMDA-PILOT",
+                "stars": 597
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Continual Learning of LLM"
         }
       ],
       "title": "Challenge of LLM"
@@ -486,7 +684,7 @@
                 "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17987
+                "stars": 17988
               }
             },
             {
@@ -501,7 +699,7 @@
                 "last_commit": "2026-08-24T08:22:10Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3271
+                "stars": 3272
               }
             },
             {
@@ -568,6 +766,28 @@
           "description": null,
           "node_type": "group",
           "title": "Visual LLM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sparks of large audio models: A survey and outlook, 2023.08 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680124617,
+                "language": null,
+                "last_commit": "2026-08-08T02:56:30Z",
+                "owner": "EmulationAI",
+                "repo": "awesome-large-audio-models",
+                "stars": 737
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audio LLM"
         },
         {
           "children": [
@@ -741,6 +961,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Large Language Models for Information Retrieval: A Survey, 2023.08 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666674147,
+                "language": null,
+                "last_commit": "2025-11-13T13:36:56Z",
+                "owner": "RUC-NLPIR",
+                "repo": "LLM4IR-Survey",
+                "stars": 543
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Information Retrieval"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Survey of Large Language Models for Autonomous Driving, 2023.11 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701419101,
+                "language": null,
+                "last_commit": "2026-06-22T14:29:16Z",
+                "owner": "Thinklab-SJTU",
+                "repo": "Awesome-LLM4AD",
+                "stars": 1892
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Autonomous Driving"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, 2023.10 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651739863,
+                "language": null,
+                "last_commit": "2024-12-22T08:19:51Z",
+                "owner": "qingsongedu",
+                "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
+                "stars": 1221
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Time Series"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A Survey on Detection of LLMs-Generated Content, 2023.10 [paper]",
               "description": "[project]",
               "children": [],
@@ -773,13 +1059,79 @@
           "description": null,
           "node_type": "group",
           "title": "Detection of LLMs-Generated Content"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Large Language Models for Generative Information Extraction: A Survey, 2023.12 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736530793,
+                "language": null,
+                "last_commit": "2024-11-18T07:52:03Z",
+                "owner": "quqxui",
+                "repo": "Awesome-LLM4IE-Papers",
+                "stars": 1060
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Information Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Large Language Models for Data Annotation: A Survey, 2024.02 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760931184,
+                "language": null,
+                "last_commit": "2025-07-29T15:08:36Z",
+                "owner": "Zhen-Tan-dmml",
+                "repo": "LLM4Annotation",
+                "stars": 648
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Data Annotation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges, 2024.03 [paper]",
+              "description": "[project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751347860,
+                "language": null,
+                "last_commit": "2024-09-03T08:35:05Z",
+                "owner": "BAAI-Agents",
+                "repo": "GPA-LM",
+                "stars": 163
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM for Game"
         }
       ],
       "title": "LLM for Downstream Tasks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:04:15.546Z",
+    "last_updated": "2026-08-24T14:23:17.603Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
