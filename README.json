@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12206
+            "stars": 12207
           }
         },
         {
@@ -222,7 +222,7 @@
                 "last_commit": "2024-05-08T05:55:17Z",
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2138
+                "stars": 2137
               }
             }
           ],
@@ -302,7 +302,7 @@
                 "last_commit": "2024-05-08T17:36:48Z",
                 "owner": "tjunlp-lab",
                 "repo": "Awesome-LLMs-Evaluation-Papers",
-                "stars": 807
+                "stars": 808
               }
             }
           ],
@@ -442,7 +442,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2903
+                "stars": 2906
               }
             }
           ],
@@ -684,7 +684,7 @@
                 "last_commit": "2026-08-21T16:19:20Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17989
+                "stars": 17991
               }
             },
             {
@@ -803,7 +803,7 @@
                 "last_commit": "2026-05-20T07:33:12Z",
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3431
+                "stars": 3432
               }
             },
             {
@@ -919,7 +919,7 @@
                 "last_commit": "2025-03-17T11:31:02Z",
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2308
+                "stars": 2309
               }
             },
             {
@@ -949,7 +949,7 @@
                 "last_commit": "2024-04-08T17:47:46Z",
                 "owner": "TamSiuhin",
                 "repo": "LLM-UM-Reading",
-                "stars": 152
+                "stars": 154
               }
             }
           ],
@@ -1015,7 +1015,7 @@
                 "last_commit": "2024-12-22T08:19:51Z",
                 "owner": "qingsongedu",
                 "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                "stars": 1222
+                "stars": 1221
               }
             }
           ],
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:59:29.254Z",
+    "last_updated": "2026-08-26T09:02:17.466Z",
     "original_repository": "AiHubCN/Awesome-LLM-Survey",
     "original_repository_id": 693180980,
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
