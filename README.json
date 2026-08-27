@@ -15,7 +15,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12207
+            "stars": 12206
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-08T18:26:44Z",
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10201
+            "stars": 10200
           }
         },
         {
@@ -222,7 +222,7 @@
                 "last_commit": "2024-05-08T05:55:17Z",
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2137
+                "stars": 2138
               }
             }
           ],
@@ -442,7 +442,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2906
+                "stars": 2908
               }
             }
           ],
@@ -508,7 +508,7 @@
                 "last_commit": "2025-09-12T03:08:58Z",
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8181
+                "stars": 8182
               }
             },
             {
@@ -681,10 +681,10 @@
                 "archived": false,
                 "id": 642642539,
                 "language": null,
-                "last_commit": "2026-08-21T16:19:20Z",
+                "last_commit": "2026-08-27T01:08:08Z",
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17991
+                "stars": 17989
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2026-08-24T08:22:10Z",
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3272
+                "stars": 3273
               }
             },
             {
@@ -714,7 +714,7 @@
                 "last_commit": "2024-11-07T20:14:46Z",
                 "owner": "awaisrauf",
                 "repo": "Awesome-CV-Foundational-Models",
-                "stars": 551
+                "stars": 550
               }
             },
             {
@@ -861,7 +861,7 @@
                 "last_commit": "2026-07-10T16:26:08Z",
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2040
+                "stars": 2041
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2026-04-25T06:08:16Z",
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
-                "stars": 524
+                "stars": 523
               }
             },
             {
@@ -971,7 +971,7 @@
                 "last_commit": "2025-11-13T13:36:56Z",
                 "owner": "RUC-NLPIR",
                 "repo": "LLM4IR-Survey",
-                "stars": 543
+                "stars": 545
               }
             }
           ],
@@ -1015,7 +1015,7 @@
                 "last_commit": "2024-12-22T08:19:51Z",
                 "owner": "qingsongedu",
                 "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                "stars": 1221
+                "stars": 1222
               }
             }
           ],
@@ -1131,9 +1131,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:02:17.466Z",
-    "original_repository": "AiHubCN/Awesome-LLM-Survey",
-    "original_repository_id": 693180980,
+    "last_updated": "2026-08-27T11:22:58.036Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 693180980,
+      "language": null,
+      "last_commit": "2025-05-25T15:23:26Z",
+      "owner": "AiHubCN",
+      "repo": "Awesome-LLM-Survey",
+      "stars": 444
+    },
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
     "enhanced_repository_description": null,
