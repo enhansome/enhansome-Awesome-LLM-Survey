@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+            "homepage": "https://arxiv.org/abs/2303.18223",
             "id": 613731840,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-11T09:51:42Z",
+            "open_issues": 29,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12205
+            "stars": 12205,
+            "topics": [
+              "chain-of-thought",
+              "chatgpt",
+              "in-context-learning",
+              "instruction-tuning",
+              "large-language-models",
+              "llm",
+              "llms",
+              "natural-language-processing",
+              "pre-trained-language-models",
+              "pre-training",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T20:12:01.064Z"
         },
@@ -26,12 +43,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
+            "homepage": "https://arxiv.org/abs/2304.13712v2",
             "id": 631454728,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-08T18:26:44Z",
+            "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10202
+            "stars": 10202,
+            "topics": [
+              "large-language-models",
+              "natural-language-processing",
+              "nlp",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T20:12:01.064Z"
         },
@@ -42,12 +69,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official GitHub page for the survey paper \"A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage\"",
+            "homepage": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v3",
             "id": 652184219,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-21T05:29:48Z",
+            "open_issues": 0,
             "owner": "anas-zafar",
             "repo": "LLM-Survey",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "deep-neural-networks",
+              "deepseek",
+              "gpt4o",
+              "large-language-model",
+              "vision-language-model",
+              "vision-transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:12:01.064Z"
         }
@@ -66,12 +108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository of our survey paper: \"Towards a Unified View of Preference Learning for Large Language Models: A Survey\"",
+                "homepage": null,
                 "id": 852155105,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-28T05:32:00Z",
+                "open_issues": 1,
                 "owner": "KbsdJames",
                 "repo": "Awesome-LLM-Preference-Learning",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -82,12 +129,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 718489422,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-25T12:41:33Z",
+                "open_issues": 4,
                 "owner": "palchenli",
                 "repo": "VL-Instruction-Tuning",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -105,12 +157,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aligning Large Language Models with Human: A Survey",
+                "homepage": "https://arxiv.org/abs/2307.12966",
                 "id": 669704171,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-11T03:38:05Z",
+                "open_issues": 0,
                 "owner": "GaryYufei",
                 "repo": "AlignLLMHumanSurvey",
-                "stars": 738
+                "stars": 738,
+                "topics": [
+                  "awesome",
+                  "chatgpt",
+                  "chinese-llama",
+                  "gpt-4",
+                  "large-language-models",
+                  "llama",
+                  "llama2",
+                  "llms",
+                  "rlhf",
+                  "supervised-finetuning",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -121,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 679187516,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-16T12:23:32Z",
+                "open_issues": 0,
                 "owner": "ValueCompass",
                 "repo": "Alignment-Goal-Survey",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -150,12 +224,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+                "homepage": "https://arxiv.org/abs/2309.15402",
                 "id": 694995456,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-01-16T12:25:06Z",
+                "open_issues": 0,
                 "owner": "zchuz",
                 "repo": "CoT-Reasoning-Survey",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "chain-of-thought",
+                  "chain-of-thought-reasoning",
+                  "deep-learning",
+                  "large-language-model",
+                  "natural-language-procressing",
+                  "survey-paper"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -166,12 +252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the paper list for the paper: Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents",
+                "homepage": "https://arxiv.org/pdf/2311.11797.pdf",
                 "id": 704061491,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-25T01:29:28Z",
+                "open_issues": 0,
                 "owner": "Zoeyyao27",
                 "repo": "CoT-Igniting-Agent",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -189,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome publications and researchers on prompting framework updated and maintained by The Intelligent System Security (IS2).",
+                "homepage": null,
                 "id": 683105575,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-14T08:49:15Z",
+                "open_issues": 0,
                 "owner": "lxx0628",
                 "repo": "Prompting-Framework-Survey",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -205,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1017596948,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-07-14T20:35:55Z",
+                "open_issues": 0,
                 "owner": "mghiasvand1",
                 "repo": "E2TP",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -228,12 +329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732328810,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-08T05:55:17Z",
+                "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2138
+                "stars": 2138,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -257,12 +363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM hallucination paper list",
+                "homepage": null,
                 "id": 665353423,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-11T12:49:15Z",
+                "open_issues": 4,
                 "owner": "LuckyyySTA",
                 "repo": "Awesome-LLM-hallucination",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -273,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Survey of Hallucination in Large Foundation Models",
+                "homepage": "https://arxiv.org/abs/2309.05922",
                 "id": 690144289,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-10T08:36:07Z",
+                "open_issues": 1,
                 "owner": "vr25",
                 "repo": "hallucination-foundation-model-survey",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -289,12 +405,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for the paper \"Cognitive Mirage: A Review of Hallucinations in Large Language Models\"",
+                "homepage": null,
                 "id": 689928915,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-21T04:59:16Z",
+                "open_issues": 0,
                 "owner": "hongbinye",
                 "repo": "Cognitive-Mirage-Hallucinations-in-LLMs",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "assessment-feedback",
+                  "cross-modal-system",
+                  "dialog-system",
+                  "hallucinations",
+                  "large-language-models",
+                  "leverage-external-knowledge",
+                  "machine-translation",
+                  "mindset-society",
+                  "natural-language-generation",
+                  "parameter-adaptation",
+                  "question-and-answer",
+                  "summarization-system",
+                  "survery"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -312,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.",
+                "homepage": null,
                 "id": 711546301,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-08T17:36:48Z",
+                "open_issues": 29,
                 "owner": "tjunlp-lab",
                 "repo": "Awesome-LLMs-Evaluation-Papers",
-                "stars": 808
+                "stars": 808,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -335,12 +475,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Latest Advances on System-2 Reasoning",
+                "homepage": null,
                 "id": 929705630,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-08T15:02:47Z",
+                "open_issues": 15,
                 "owner": "zzli2022",
                 "repo": "Awesome-System2-Reasoning-LLM",
-                "stars": 1353
+                "stars": 1353,
+                "topics": [
+                  "benchmark",
+                  "macro-action",
+                  "mcts",
+                  "o1",
+                  "o3",
+                  "prm",
+                  "r1",
+                  "reasoning",
+                  "rl",
+                  "self-improve",
+                  "slow-fast",
+                  "system-2"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -351,12 +509,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2023] Reasoning with Language Model Prompting: A Survey",
+                "homepage": null,
                 "id": 536490220,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-21T06:44:22Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "Prompt4ReasoningPapers",
-                "stars": 1006
+                "stars": 1006,
+                "topics": [
+                  "arithmetic-reasoning",
+                  "artificial-intelligence",
+                  "awsome-list",
+                  "chain-of-thought",
+                  "chatgpt",
+                  "commonsense-reasoning",
+                  "datasets",
+                  "gpt-3",
+                  "language-models",
+                  "large-language-models",
+                  "llm",
+                  "logical-reasoning",
+                  "natural-language-processing",
+                  "nlp",
+                  "paper-list",
+                  "prompt",
+                  "prompt-engineering",
+                  "reasoning",
+                  "survey",
+                  "symbolic-reasoning"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -367,12 +551,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models",
+                "homepage": null,
                 "id": 721539172,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-16T10:08:45Z",
+                "open_issues": 6,
                 "owner": "reasoning-survey",
                 "repo": "Awesome-Reasoning-Foundation-Models",
-                "stars": 656
+                "stars": 656,
+                "topics": [
+                  "foundation-models",
+                  "llm",
+                  "llm-reasoning",
+                  "multimodal",
+                  "reasoning",
+                  "reasoning-agent",
+                  "reasoning-language-models"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -390,12 +587,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome repository & A comprehensive survey on interpretability of LLM attention heads.",
+                "homepage": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00024-8",
                 "id": 823700612,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-03-02T10:35:09Z",
+                "open_issues": 4,
                 "owner": "IAAR-Shanghai",
                 "repo": "Awesome-Attention-Heads",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "attention-head-mining",
+                  "attention-mechanism",
+                  "awesome",
+                  "chain-of-thought",
+                  "circuit-analysis",
+                  "cognitive-neuroscience",
+                  "gpt",
+                  "interpretability",
+                  "large-language-models",
+                  "llm",
+                  "llm-reasoning",
+                  "machine-psychology",
+                  "research-paper",
+                  "survey",
+                  "transformer",
+                  "visualization-tools"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -413,12 +632,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of papers and resources based on \"Large Language Models on Graphs: A Comprehensive Survey\" (TKDE)",
+                "homepage": "https://arxiv.org/abs/2312.02783",
                 "id": 672673877,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-03-02T01:40:10Z",
+                "open_issues": 0,
                 "owner": "PeterGriffinJin",
                 "repo": "Awesome-Language-Model-on-Graphs",
-                "stars": 998
+                "stars": 998,
+                "topics": [
+                  "awesome-resources",
+                  "generative-ai",
+                  "graphs",
+                  "large-language-models",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -436,12 +666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository for the survey paper <<Survey on Large Language Models Factuality: Knowledge, Retrieval and Domain-Specificity>>",
+                "homepage": null,
                 "id": 702921298,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-28T15:54:57Z",
+                "open_issues": 1,
                 "owner": "wangcunxiang",
                 "repo": "LLM-Factuality-Survey",
-                "stars": 339
+                "stars": 339,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -459,12 +694,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
+                "homepage": "https://zjunlp.github.io/project/KnowEdit",
                 "id": 638156745,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2909
+                "stars": 2909,
+                "topics": [
+                  "artificial-intelligence",
+                  "baichuan",
+                  "chatgpt",
+                  "cknowedit",
+                  "easyedit",
+                  "easyedit2",
+                  "efficient",
+                  "gpt",
+                  "knowedit",
+                  "knowledge-editing",
+                  "knowlm",
+                  "large-language-models",
+                  "llama",
+                  "mmedit",
+                  "model-editing",
+                  "natural-language-processing",
+                  "safeedit",
+                  "tool",
+                  "trustworthy-ai",
+                  "unlearning"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -482,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a collection of research papers for Self-Correcting Large Language Models with Automated Feedback. ",
+                "homepage": null,
                 "id": 674826875,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-28T23:35:00Z",
+                "open_issues": 3,
                 "owner": "teacherpeterpan",
                 "repo": "self-correction-llm-papers",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -505,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Survey of Attributions for Large Language Models",
+                "homepage": null,
                 "id": 694050022,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-14T05:33:16Z",
+                "open_issues": 0,
                 "owner": "HITsz-TMG",
                 "repo": "awesome-llm-attributions",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -528,12 +799,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The paper list of the 86-page SCIS cover paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al.",
+                "homepage": "https://arxiv.org/abs/2309.07864",
                 "id": 690609896,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-12T03:08:58Z",
+                "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8183
+                "stars": 8183,
+                "topics": [
+                  "agent",
+                  "large-language-models",
+                  "llm",
+                  "nlp",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -544,12 +826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 674158658,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-20T00:59:30Z",
+                "open_issues": 16,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2910
+                "stars": 2910,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -560,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 749300380,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-25T12:56:24Z",
+                "open_issues": 3,
                 "owner": "jun0wanan",
                 "repo": "awesome-large-multimodal-agents",
-                "stars": 497
+                "stars": 497,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -583,12 +875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome papers for role-playing with language models",
+                "homepage": null,
                 "id": 708847290,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-03T12:51:24Z",
+                "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 231
+                "stars": 231,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -599,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764958659,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-11T08:18:02Z",
+                "open_issues": 1,
                 "owner": "MiuLab",
                 "repo": "PersonaLLM-Survey",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -622,12 +924,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2024] Efficient Large Language Models: A Survey",
+                "homepage": "https://arxiv.org/abs/2312.03863",
                 "id": 629520282,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-23T01:57:02Z",
+                "open_issues": 2,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
-                "stars": 1257
+                "stars": 1257,
+                "topics": [
+                  "efficient-deep-learning",
+                  "generative-ai",
+                  "large-language-models",
+                  "machine-learning-systems",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -645,12 +958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Summarize existing representative LLMs text datasets.",
+                "homepage": null,
                 "id": 744306661,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-11T03:47:03Z",
+                "open_issues": 7,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1480
+                "stars": 1480,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -661,12 +979,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of training data management explorations for large language models",
+                "homepage": "https://arxiv.org/abs/2312.01700",
                 "id": 725974481,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-02T07:53:24Z",
+                "open_issues": 0,
                 "owner": "ZigeW",
                 "repo": "data_management_LLM",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "instruction-tuning",
+                  "large-language-models",
+                  "natural-language-processing",
+                  "pre-training",
+                  "pretraining"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -684,12 +1013,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 PILOT: A Pre-trained Model-Based Continual Learning Toolbox",
+                "homepage": "https://arxiv.org/abs/2309.07117",
                 "id": 685070560,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-29T04:38:49Z",
+                "open_issues": 6,
                 "owner": "LAMDA-CL",
                 "repo": "LAMDA-PILOT",
-                "stars": 597
+                "stars": 597,
+                "topics": [
+                  "continual-learning",
+                  "deep-learning",
+                  "incremental-learning",
+                  "lifelong-learning",
+                  "machine-learning",
+                  "pre-trained-models",
+                  "pytorch",
+                  "reproducible-research",
+                  "toolkit",
+                  "vision-language-model",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -713,12 +1059,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+                "homepage": null,
                 "id": 642642539,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T01:08:08Z",
+                "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17993
+                "stars": 17994,
+                "topics": [
+                  "chain-of-thought",
+                  "in-context-learning",
+                  "instruction-following",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "large-vision-language-model",
+                  "large-vision-language-models",
+                  "multi-modality",
+                  "multimodal-chain-of-thought",
+                  "multimodal-in-context-learning",
+                  "multimodal-instruction-tuning",
+                  "multimodal-large-language-models",
+                  "visual-instruction-tuning"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -729,12 +1094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
+                "homepage": null,
                 "id": 666960664,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-24T08:22:10Z",
+                "open_issues": 6,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3275
+                "stars": 3275,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -745,12 +1115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 668808370,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-07T20:14:46Z",
+                "open_issues": 5,
                 "owner": "awaisrauf",
                 "repo": "Awesome-CV-Foundational-Models",
-                "stars": 550
+                "stars": 550,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -761,12 +1136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Survey on Benchmarks of Multimodal Large Language Models",
+                "homepage": null,
                 "id": 843341034,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-13T11:29:32Z",
+                "open_issues": 2,
                 "owner": "swordlidev",
                 "repo": "Evaluation-Multimodal-LLMs-Survey",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -777,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 718489422,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-25T12:41:33Z",
+                "open_issues": 4,
                 "owner": "palchenli",
                 "repo": "VL-Instruction-Tuning",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -793,12 +1178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 985083271,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-29T15:23:32Z",
+                "open_issues": 0,
                 "owner": "mghiasvand1",
                 "repo": "Awesome-VLM-Synthetic-Data",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -816,12 +1206,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of resources on the applications of Large Language Models (LLMs) in Audio AI.",
+                "homepage": "https://arxiv.org/abs/2308.12792",
                 "id": 680124617,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-08T02:56:30Z",
+                "open_issues": 0,
                 "owner": "EmulationAI",
                 "repo": "awesome-large-audio-models",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "audio-ai",
+                  "audio-processing",
+                  "automatic-speech-recognition",
+                  "foundational-models",
+                  "large-audio-models",
+                  "large-language-model-speech",
+                  "large-language-models",
+                  "music-ai",
+                  "music-information-retrieval",
+                  "music-processing",
+                  "speech-ai",
+                  "speech-llms",
+                  "speech-to-text"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -839,12 +1248,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.",
+                "homepage": "https://arxiv.org/abs/2311.07989",
                 "id": 694517360,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-20T07:33:12Z",
+                "open_issues": 18,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3435
+                "stars": 3435,
+                "topics": [
+                  "ai",
+                  "awesome",
+                  "datasets",
+                  "llm",
+                  "nlp",
+                  "papers",
+                  "software-engineering",
+                  "survey",
+                  "tmlr"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -855,12 +1279,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural Code Intelligence Survey 2024-25; Reading lists and resources",
+                "homepage": "https://arxiv.org/abs/2403.14734",
                 "id": 664913341,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-24T12:34:54Z",
+                "open_issues": 2,
                 "owner": "QiushiSun",
                 "repo": "Awesome-Code-Intelligence",
-                "stars": 282
+                "stars": 282,
+                "topics": [
+                  "code-generation",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -871,12 +1303,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collections of research, benchmarks and tools towards more robust and reliable language models for code;  LM4Code; LM4SE; reliable LLM; LLM4Code",
+                "homepage": "https://yueyuel.github.io/ReliableLM4Code/",
                 "id": 691969285,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-14T13:29:12Z",
+                "open_issues": 1,
                 "owner": "yueyueL",
                 "repo": "ReliableLM4Code",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "code-generation",
+                  "code-intelligence",
+                  "language-models",
+                  "llm4code",
+                  "lm4se",
+                  "reliability",
+                  "software-"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -900,12 +1345,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " [Nature Reviews Bioengineering🔥] Application of Large Language Models in Medicine.  A curated list of practical guide resources of Medical LLMs (Medical LLMs Tree, Tables, and Papers)",
+                "homepage": "https://arxiv.org/abs/2311.05112",
                 "id": 715523093,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-10T16:26:08Z",
+                "open_issues": 0,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2040
+                "stars": 2040,
+                "topics": [
+                  "ai-in-medicine",
+                  "clinical-ai",
+                  "large-language-models",
+                  "medical-large-language-models",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -916,12 +1372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 618364872,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-25T06:08:16Z",
+                "open_issues": 2,
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -932,12 +1393,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
+                "homepage": "https://arxiv.org/abs/2311.01918",
                 "id": 713718413,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-12-23T07:16:13Z",
+                "open_issues": 0,
                 "owner": "mingze-yuan",
                 "repo": "Awesome-LLM-Healthcare",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "agent",
+                  "awesome",
+                  "awesome-list",
+                  "healthcare",
+                  "large-language-models",
+                  "llm",
+                  "medical",
+                  "medicine",
+                  "review",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -961,12 +1438,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of awesome papers and resources of recommender system on large language model (LLM).",
+                "homepage": null,
                 "id": 639673870,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-17T11:31:02Z",
+                "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2308
+                "stars": 2308,
+                "topics": [
+                  "awesome",
+                  "datasets",
+                  "large-language-models",
+                  "llm4rec",
+                  "recommender-system",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -977,12 +1466,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.",
+                "homepage": null,
                 "id": 643705885,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-17T03:14:41Z",
+                "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1550
+                "stars": 1550,
+                "topics": [
+                  "awesome",
+                  "large-language-models",
+                  "llm",
+                  "llm4rec",
+                  "llm4rs",
+                  "recommender-systems",
+                  "recsys",
+                  "rs"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -993,12 +1496,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of large language models for user modeling (LLM-UM) papers, based on \"User Modeling in the Era of Large Language Models: Current Research and Future Directions\" at DEBULL",
+                "homepage": "https://arxiv.org/abs/2312.11518",
                 "id": 702162346,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-08T17:47:46Z",
+                "open_issues": 1,
                 "owner": "TamSiuhin",
                 "repo": "LLM-UM-Reading",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "large-language-models",
+                  "llm",
+                  "personalization",
+                  "suspicious-detection",
+                  "user-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1016,12 +1530,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for the survey of LLM4IR.",
+                "homepage": "https://arxiv.org/abs/2308.07107",
                 "id": 666674147,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-11-13T13:36:56Z",
+                "open_issues": 0,
                 "owner": "RUC-NLPIR",
                 "repo": "LLM4IR-Survey",
-                "stars": 545
+                "stars": 545,
+                "topics": [
+                  "information-retrieval",
+                  "large-language-models",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1039,12 +1562,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated)",
+                "homepage": null,
                 "id": 701419101,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T14:29:16Z",
+                "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1892
+                "stars": 1892,
+                "topics": [
+                  "large-language-models",
+                  "vision-language-action-model",
+                  "vision-language-model",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1062,12 +1595,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data.",
+                "homepage": null,
                 "id": 651739863,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-22T08:19:51Z",
+                "open_issues": 3,
                 "owner": "qingsongedu",
                 "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                "stars": 1222
+                "stars": 1222,
+                "topics": [
+                  "anomalydetection",
+                  "autoscaling",
+                  "deeplearning",
+                  "forecasting",
+                  "foundation-models",
+                  "large-language-models",
+                  "large-models",
+                  "machinelearning",
+                  "pre-training",
+                  "rca",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1085,12 +1635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The lastest paper about detection of LLM-generated text and code",
+                "homepage": "https://arxiv.org/abs/2310.15654",
                 "id": 709156508,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-19T20:25:17Z",
+                "open_issues": 0,
                 "owner": "Xianjun-Yang",
                 "repo": "Awesome_papers_on_LLMs_detection",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             },
@@ -1101,12 +1656,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A survey and reflection on the latest research breakthroughs in LLM-generated Text detection, including data, detectors, metrics, current issues and future directions.",
+                "homepage": "https://arxiv.org/abs/2310.14724",
                 "id": 709099035,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-03T10:03:29Z",
+                "open_issues": 0,
                 "owner": "NLP2CT",
                 "repo": "LLM-generated-Text-Detection",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "ai-generated",
+                  "authorship",
+                  "authorship-identification",
+                  "deepfake",
+                  "deepfake-detection",
+                  "detection",
+                  "llm-generated",
+                  "llm-generated-text",
+                  "llms"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1124,12 +1694,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome papers about generative Information Extraction (IE) using Large Language Models (LLMs) ",
+                "homepage": "https://arxiv.org/abs/2312.17617",
                 "id": 736530793,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-18T07:52:03Z",
+                "open_issues": 0,
                 "owner": "quqxui",
                 "repo": "Awesome-LLM4IE-Papers",
-                "stars": 1060
+                "stars": 1060,
+                "topics": [
+                  "cross-domain-learning",
+                  "data-augmentation",
+                  "event-arguments",
+                  "event-detection",
+                  "event-extraction",
+                  "few-shot-learning",
+                  "in-context-learning",
+                  "information-extraction",
+                  "knowledge-graph-construction",
+                  "large-language-models",
+                  "named-entity-recognition",
+                  "relation-extraction",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1147,12 +1736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 760931184,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-29T15:08:36Z",
+                "open_issues": 4,
                 "owner": "Zhen-Tan-dmml",
                 "repo": "LLM4Annotation",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1170,12 +1764,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is a live list of papers on game playing and large multimodality model - \"A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges\".",
+                "homepage": null,
                 "id": 751347860,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-03T08:35:05Z",
+                "open_issues": 1,
                 "owner": "BAAI-Agents",
                 "repo": "GPA-LM",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "agent-framework",
+                  "agents",
+                  "ai",
+                  "awesome-list",
+                  "gameai",
+                  "gameplay",
+                  "games",
+                  "gcc",
+                  "general-computer-control",
+                  "generative-ai",
+                  "large-language-models",
+                  "llm",
+                  "multimodal",
+                  "planning",
+                  "vision-language-models",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
             }
@@ -1189,15 +1805,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:12:01.064Z",
+    "last_updated": "2026-08-29T04:43:10.460Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome Collection for LLM Survey",
+      "homepage": null,
       "id": 693180980,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-25T15:23:26Z",
+      "open_issues": 1,
       "owner": "AiHubCN",
       "repo": "Awesome-LLM-Survey",
-      "stars": 444
+      "stars": 444,
+      "topics": [
+        "awesome-list",
+        "large-language-models",
+        "llm",
+        "nlp",
+        "survey"
+      ]
     },
     "original_repository_sha": "4ef976f8d1a8e67a3080b51348eb7133d17b35e6",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Survey",
