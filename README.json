@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12205,
+            "stars": 12206,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -261,7 +261,7 @@
                 "open_issues": 0,
                 "owner": "Zoeyyao27",
                 "repo": "CoT-Igniting-Agent",
-                "stars": 365,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -700,7 +700,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
                 "stars": 2909,
@@ -1103,7 +1103,7 @@
                 "open_issues": 6,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3275,
+                "stars": 3276,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1665,7 +1665,7 @@
                 "open_issues": 0,
                 "owner": "NLP2CT",
                 "repo": "LLM-generated-Text-Detection",
-                "stars": 251,
+                "stars": 252,
                 "topics": [
                   "ai-generated",
                   "authorship",
@@ -1703,7 +1703,7 @@
                 "open_issues": 0,
                 "owner": "quqxui",
                 "repo": "Awesome-LLM4IE-Papers",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "cross-domain-learning",
                   "data-augmentation",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:43:10.460Z",
+    "last_updated": "2026-08-29T13:50:02.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
