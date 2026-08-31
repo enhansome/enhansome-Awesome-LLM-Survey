@@ -780,7 +780,7 @@
                 "open_issues": 0,
                 "owner": "HITsz-TMG",
                 "repo": "awesome-llm-attributions",
-                "stars": 229,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -808,7 +808,7 @@
                 "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8181,
+                "stars": 8183,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -853,7 +853,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-09-25T12:56:24Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "jun0wanan",
                 "repo": "awesome-large-multimodal-agents",
                 "stars": 497,
@@ -1103,7 +1103,7 @@
                 "open_issues": 6,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:47:55.955Z",
+    "last_updated": "2026-08-31T16:09:33.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
