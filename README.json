@@ -16,10 +16,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-03-11T09:51:42Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12204,
+            "stars": 12205,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10202,
+            "stars": 10203,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2138,
+                "stars": 2139,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -456,7 +456,7 @@
                 "open_issues": 29,
                 "owner": "tjunlp-lab",
                 "repo": "Awesome-LLMs-Evaluation-Papers",
-                "stars": 808,
+                "stars": 809,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -700,7 +700,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
                 "stars": 2910,
@@ -808,7 +808,7 @@
                 "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8183,
+                "stars": 8187,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -967,7 +967,7 @@
                 "open_issues": 7,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1480,
+                "stars": 1479,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2307,
+                "stars": 2308,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1892,
+                "stars": 1891,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:09:33.735Z",
+    "last_updated": "2026-09-01T13:29:51.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
