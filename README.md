@@ -180,7 +180,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Reasoning with LLM
 
-* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,353 | 🐛 15 | 🌐 Python | 📅 2025-06-08
+* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,353 | 🐛 16 | 🌐 Python | 📅 2025-06-08
 * Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,007 | 🐛 0 | 📅 2025-05-21
 * A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 656 | 🐛 5 | 📅 2026-09-03
 
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

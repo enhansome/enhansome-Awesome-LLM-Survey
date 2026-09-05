@@ -481,7 +481,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-08T15:02:47Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "zzli2022",
                 "repo": "Awesome-System2-Reasoning-LLM",
                 "stars": 1353,
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:43:00.490Z",
+    "last_updated": "2026-09-05T11:49:53.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
