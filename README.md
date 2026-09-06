@@ -71,9 +71,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## General Survey
 
-* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,207 | 🐛 30 | 🌐 Python | 📅 2025-03-11
+* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,210 | 🐛 30 | 🌐 Python | 📅 2025-03-11
 
-* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,205 | 🐛 17 | 📅 2026-04-08
+* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,203 | 🐛 17 | 📅 2026-04-08
 
 * Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects, 2023.12 [\[paper\]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v4) [\[project\]](https://github.com/anas-zafar/LLM-Survey) ⭐ 42 | 🐛 0 | 📅 2025-07-21
 
@@ -174,15 +174,15 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Evaluation of LLM
 
-* Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.19736.pdf)[\[project\]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) ⭐ 810 | 🐛 29 | 📅 2024-05-08
+* Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.19736.pdf)[\[project\]](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) ⭐ 810 | 🐛 30 | 📅 2024-05-08
 
 * A Survey on Evaluation of Large Language Models, 2023.07 [\[paper\]](https://arxiv.org/abs/2307.03109)[\[project\]](https://llm-eval.github.io/)
 
 ### Reasoning with LLM
 
-* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,353 | 🐛 16 | 🌐 Python | 📅 2025-06-08
+* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,354 | 🐛 16 | 🌐 Python | 📅 2025-06-08
 * Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,007 | 🐛 0 | 📅 2025-05-21
-* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 656 | 🐛 5 | 📅 2026-09-03
+* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 656 | 🐛 6 | 📅 2026-09-03
 
 ### Explainability for LLM
 
@@ -277,7 +277,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Data of LLM
 
-* Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.18041.pdf)[\[project\]](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ⭐ 1,480 | 🐛 7 | 📅 2026-03-11
+* Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.18041.pdf)[\[project\]](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ⭐ 1,479 | 🐛 7 | 📅 2026-03-11
 * Data Management For Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.01700)[\[project\]](https://github.com/ZigeW/data_management_LLM) ⭐ 343 | 🐛 0 | 📅 2024-08-02
 * A Survey on Data Selection for Language Models, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.16827.pdf)
 
@@ -296,9 +296,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,998 | 🐛 110 | 📅 2026-09-04
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,000 | 🐛 110 | 📅 2026-09-04
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,279 | 🐛 7 | 📅 2026-08-24
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,277 | 🐛 7 | 📅 2026-08-24
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 550 | 🐛 5 | 📅 2024-11-07
 
@@ -396,7 +396,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Time Series
 
-* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, 2023.10 [\[paper\]](https://arxiv.org/abs/2310.10196)[\[project\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,221 | 🐛 3 | 📅 2024-12-22
+* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, 2023.10 [\[paper\]](https://arxiv.org/abs/2310.10196)[\[project\]](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) ⭐ 1,222 | 🐛 3 | 📅 2024-12-22
 
 ### Detection of LLMs-Generated Content
 
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
