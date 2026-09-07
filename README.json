@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10203,
+            "stars": 10205,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -560,7 +560,7 @@
                 "open_issues": 6,
                 "owner": "reasoning-survey",
                 "repo": "Awesome-Reasoning-Foundation-Models",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "foundation-models",
                   "llm",
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -808,7 +808,7 @@
                 "open_issues": 31,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8198,
+                "stars": 8196,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -1068,7 +1068,7 @@
                 "open_issues": 110,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18000,
+                "stars": 18002,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2039,
+                "stars": 2041,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2309,
+                "stars": 2310,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1475,7 +1475,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1571,7 +1571,7 @@
                 "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1890,
+                "stars": 1889,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:08:29.993Z",
+    "last_updated": "2026-09-07T14:14:44.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
