@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10206,
+            "stars": 10205,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "teacherpeterpan",
                 "repo": "self-correction-llm-papers",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -808,7 +808,7 @@
                 "open_issues": 32,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8220,
+                "stars": 8221,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -1022,7 +1022,7 @@
                 "open_issues": 6,
                 "owner": "LAMDA-CL",
                 "repo": "LAMDA-PILOT",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -1068,7 +1068,7 @@
                 "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18008,
+                "stars": 18010,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1215,7 +1215,7 @@
                 "open_issues": 0,
                 "owner": "EmulationAI",
                 "repo": "awesome-large-audio-models",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "audio-ai",
                   "audio-processing",
@@ -1257,7 +1257,7 @@
                 "open_issues": 21,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3437,
+                "stars": 3439,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1312,7 +1312,7 @@
                 "open_issues": 1,
                 "owner": "yueyueL",
                 "repo": "ReliableLM4Code",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "code-generation",
                   "code-intelligence",
@@ -1381,7 +1381,7 @@
                 "open_issues": 3,
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2311,
+                "stars": 2312,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1475,7 +1475,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1554,
+                "stars": 1555,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:18:34.442Z",
+    "last_updated": "2026-09-14T15:00:58.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
