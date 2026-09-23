@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12218,
+            "stars": 12219,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -166,7 +166,7 @@
                 "open_issues": 0,
                 "owner": "GaryYufei",
                 "repo": "AlignLLMHumanSurvey",
-                "stars": 738,
+                "stars": 737,
                 "topics": [
                   "awesome",
                   "chatgpt",
@@ -560,7 +560,7 @@
                 "open_issues": 6,
                 "owner": "reasoning-survey",
                 "repo": "Awesome-Reasoning-Foundation-Models",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "foundation-models",
                   "llm",
@@ -675,7 +675,7 @@
                 "open_issues": 1,
                 "owner": "wangcunxiang",
                 "repo": "LLM-Factuality-Survey",
-                "stars": 339,
+                "stars": 340,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2925,
+                "stars": 2926,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -808,7 +808,7 @@
                 "open_issues": 32,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8219,
+                "stars": 8220,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -835,7 +835,7 @@
                 "open_issues": 17,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2909,
+                "stars": 2910,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 113,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18031,
+                "stars": 18035,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3286,
+                "stars": 3288,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 21,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3442,
+                "stars": 3443,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2041,
+                "stars": 2042,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1402,7 +1402,7 @@
                 "open_issues": 0,
                 "owner": "mingze-yuan",
                 "repo": "Awesome-LLM-Healthcare",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "agent",
                   "awesome",
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2315,
+                "stars": 2317,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1567,8 +1567,8 @@
                 "id": 701419101,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-22T14:29:16Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-22T15:15:02Z",
+                "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
                 "stars": 1889,
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:24:42.268Z",
+    "last_updated": "2026-09-23T13:38:22.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
