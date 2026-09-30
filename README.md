@@ -73,7 +73,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 * A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,224 | 🐛 30 | 🌐 Python | 📅 2025-03-11
 
-* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,211 | 🐛 17 | 📅 2026-04-08
+* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,210 | 🐛 17 | 📅 2026-04-08
 
 * Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects, 2023.12 [\[paper\]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v4) [\[project\]](https://github.com/anas-zafar/LLM-Survey) ⭐ 42 | 🐛 0 | 📅 2025-07-21
 
@@ -200,7 +200,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Graph for LLM
 
-* Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.02783.pdf) [\[project\]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) ⭐ 996 | 🐛 0 | 📅 2025-03-02
+* Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.02783.pdf) [\[project\]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) ⭐ 997 | 🐛 0 | 📅 2025-03-02
 * A Survey of Graph Meets Large Language Model: Progress and Future Directions, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.12399)
 
 ### Long-Context for LLM
@@ -216,7 +216,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Knowledge for LLM
 
-* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,927 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-24
+* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,926 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-24
 
 * A Survey on Knowledge Distillation of Large Language Models, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.13116.pdf)
 
@@ -248,7 +248,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Agent of LLM
 
-* The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [\[paper\]](https://arxiv.org/abs/2309.07864)[\[project\]](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,221 | 🐛 32 | 📅 2025-09-12
+* The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [\[paper\]](https://arxiv.org/abs/2309.07864)[\[project\]](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,222 | 🐛 32 | 📅 2025-09-12
 * A Survey on Large Language Model based Autonomous Agents, 2023.08 [\[paper\]](https://arxiv.org/abs/2308.11432)[\[project\]](https://github.com/Paitesanshi/LLM-Agent-Survey) ⭐ 2,911 | 🐛 17 | 📅 2025-02-20
 * Large Multimodal Agents: A Survey, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.15116)[\[project\]](https://github.com/jun0wanan/awesome-large-multimodal-agents) ⭐ 497 | 🐛 5 | 📅 2024-09-25
 * Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.11970.pdf)
@@ -277,7 +277,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Data of LLM
 
-* Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.18041.pdf)[\[project\]](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ⭐ 1,479 | 🐛 8 | 📅 2026-03-11
+* Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.18041.pdf)[\[project\]](https://github.com/lmmlzn/Awesome-LLMs-Datasets) ⭐ 1,480 | 🐛 8 | 📅 2026-03-11
 * Data Management For Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.01700)[\[project\]](https://github.com/ZigeW/data_management_LLM) ⭐ 343 | 🐛 0 | 📅 2024-08-02
 * A Survey on Data Selection for Language Models, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.16827.pdf)
 
@@ -287,7 +287,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Continual Learning of LLM
 
-* Continual Learning with Pre-Trained Models: A Survey, 2024.01 [\[paper\]](https://arxiv.org/pdf/2401.16386) [\[project\]](https://github.com/sun-hailong/LAMDA-PILOT) ⭐ 606 | 🐛 6 | 🌐 Python | 📅 2026-01-29
+* Continual Learning with Pre-Trained Models: A Survey, 2024.01 [\[paper\]](https://arxiv.org/pdf/2401.16386) [\[project\]](https://github.com/sun-hailong/LAMDA-PILOT) ⭐ 607 | 🐛 6 | 🌐 Python | 📅 2026-01-29
 * Continual Learning of Large Language Models: A Comprehensive Survey, 2024.04 [\[paper\]](https://arxiv.org/pdf/2404.16789)
 
 ***
@@ -296,7 +296,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,039 | 🐛 114 | 📅 2026-09-18
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,041 | 🐛 114 | 📅 2026-09-18
 
 * Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,292 | 🐛 7 | 📅 2026-09-27
 
@@ -335,7 +335,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Health
 
-* A Survey of Large Language Models in Medicine: Progress, Application, and Challenge, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.05112)[\[project\]](https://github.com/AI-in-Health/MedLLMsPracticalGuide) ⭐ 2,045 | 🐛 0 | 📅 2026-07-10
+* A Survey of Large Language Models in Medicine: Progress, Application, and Challenge, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.05112)[\[project\]](https://github.com/AI-in-Health/MedLLMsPracticalGuide) ⭐ 2,046 | 🐛 0 | 📅 2026-07-10
 
 * Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [\[paper\]](https://arxiv.org/abs/2303.11568)[\[project\]](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) ⭐ 525 | 🐛 3 | 📅 2026-04-25
 
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
