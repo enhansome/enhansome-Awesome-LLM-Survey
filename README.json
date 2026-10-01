@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12224,
+            "stars": 12223,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10210,
+            "stars": 10209,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -835,7 +835,7 @@
                 "open_issues": 17,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -856,7 +856,7 @@
                 "open_issues": 5,
                 "owner": "jun0wanan",
                 "repo": "awesome-large-multimodal-agents",
-                "stars": 497,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1064,11 +1064,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-18T03:09:18Z",
+                "last_commit": "2026-10-01T02:35:51Z",
                 "open_issues": 114,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18041,
+                "stars": 18043,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1571,7 +1571,7 @@
                 "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1890,
+                "stars": 1889,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1662,7 +1662,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-03T10:03:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "NLP2CT",
                 "repo": "LLM-generated-Text-Detection",
                 "stars": 252,
@@ -1773,7 +1773,7 @@
                 "open_issues": 1,
                 "owner": "BAAI-Agents",
                 "repo": "GPA-LM",
-                "stars": 163,
+                "stars": 162,
                 "topics": [
                   "agent-framework",
                   "agents",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:55:03.158Z",
+    "last_updated": "2026-10-01T15:26:58.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
