@@ -105,7 +105,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Human Alignment for LLM
 
-* Aligning Large Language Models with Human: A Survey, 2023.07 [\[paper\]](https://arxiv.org/abs/2307.12966)[\[project\]](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 738 | 🐛 1 | 📅 2026-09-08
+* Aligning Large Language Models with Human: A Survey, 2023.07 [\[paper\]](https://arxiv.org/abs/2307.12966)[\[project\]](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 738 | 🐛 2 | 📅 2026-09-08
 
 * From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Model, 2023.08 [\[paper\]](https://arxiv.org/abs/2308.12014)[\[project\]](https://github.com/ValueCompass/Alignment-Goal-Survey) ⭐ 30 | 🐛 0 | 📅 2024-02-16
 
@@ -180,9 +180,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Reasoning with LLM
 
-* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,357 | 🐛 17 | 🌐 Python | 📅 2025-06-08
+* From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,357 | 🐛 18 | 🌐 Python | 📅 2025-06-08
 * Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,008 | 🐛 0 | 📅 2025-05-21
-* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 660 | 🐛 7 | 📅 2026-09-03
+* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 660 | 🐛 8 | 📅 2026-09-03
 
 ### Explainability for LLM
 
@@ -296,7 +296,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,042 | 🐛 116 | 📅 2026-10-01
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,043 | 🐛 116 | 📅 2026-10-01
 
 * Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,293 | 🐛 7 | 📅 2026-09-27
 
