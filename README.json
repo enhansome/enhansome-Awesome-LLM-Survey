@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "A Survey of Large Language Models, 2023.11 [paper]",
-          "description": "[project]",
+          "description": "RUCAIBox/LLMSurvey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04 [paper]",
-          "description": "[project]",
+          "description": "Mooler0410/LLMsPracticalGuide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10209,
+            "stars": 10208,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects, 2023.12 [paper]",
-          "description": "[project]",
+          "description": "anas-zafar/LLM-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [paper]",
-              "description": "[project]",
+              "description": "KbsdJames/Awesome-LLM-Preference-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -125,7 +125,7 @@
             {
               "node_type": "item",
               "title": "Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [paper]",
-              "description": "[project]",
+              "description": "palchenli/VL-Instruction-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "Aligning Large Language Models with Human: A Survey, 2023.07 [paper]",
-              "description": "[project]",
+              "description": "GaryYufei/AlignLLMHumanSurvey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-08T07:59:06Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "GaryYufei",
                 "repo": "AlignLLMHumanSurvey",
                 "stars": 738,
@@ -186,7 +186,7 @@
             {
               "node_type": "item",
               "title": "From Instructions to Intrinsic Human Values -- A Survey of Alignment Goals for Big Model, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "ValueCompass/Alignment-Goal-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -220,7 +220,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future, 2023.09 [paper]",
-              "description": "[project]",
+              "description": "zchuz/CoT-Reasoning-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -248,7 +248,7 @@
             {
               "node_type": "item",
               "title": "Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "Zoeyyao27/CoT-Igniting-Agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Prompting Frameworks for Large Language Models: A Survey, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "lxx0628/Prompting-Framework-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "E2TP: Element to Tuple Prompting Improves Aspect Sentiment Tuple Prediction, 2024.05 [paper]",
-              "description": "[project]",
+              "description": "mghiasvand1/E2TP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,7 +325,7 @@
             {
               "node_type": "item",
               "title": "Retrieval-Augmented Generation for Large Language Models: A Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "Tongji-KGLLM/RAG-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "LuckyyySTA/Awesome-LLM-hallucination",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Hallucination in “Large” Foundation Models, 2023.09 [paper]",
-              "description": "[project]",
+              "description": "vr25/hallucination-foundation-model-survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
             {
               "node_type": "item",
               "title": "Cognitive Mirage: A Review of Hallucinations in Large Language Models, 2023.09 [paper]",
-              "description": "[project]",
+              "description": "hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "Evaluating Large Language Models: A Comprehensive Survey, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "tjunlp-lab/Awesome-LLMs-Evaluation-Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[paper]",
-              "description": "[project]",
+              "description": "zzli2022/Awesome-System2-Reasoning-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-08T15:02:47Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "zzli2022",
                 "repo": "Awesome-System2-Reasoning-LLM",
                 "stars": 1357,
@@ -505,7 +505,7 @@
             {
               "node_type": "item",
               "title": "Reasoning with Language Model Prompting: A Survey, 2022.12 [paper]",
-              "description": "[project]",
+              "description": "zjunlp/Prompt4ReasoningPapers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,7 +547,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Reasoning with Foundation Models, 2023.12 [papaer]",
-              "description": "[project]",
+              "description": "reasoning-survey/Awesome-Reasoning-Foundation-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,7 +557,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-03T23:13:35Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "reasoning-survey",
                 "repo": "Awesome-Reasoning-Foundation-Models",
                 "stars": 660,
@@ -583,7 +583,7 @@
             {
               "node_type": "item",
               "title": "Awesome Attention Heads, 2024.07 [project]",
-              "description": null,
+              "description": "IAAR-Shanghai/Awesome-Attention-Heads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models on Graphs: A Comprehensive Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "PeterGriffinJin/Awesome-Language-Model-on-Graphs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -662,7 +662,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "wangcunxiang/LLM-Factuality-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -690,7 +690,7 @@
             {
               "node_type": "item",
               "title": "Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [paper]",
-              "description": "[project]",
+              "description": "zjunlp/EasyEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -703,7 +703,7 @@
                 "open_issues": 3,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2926,
+                "stars": 2928,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -739,7 +739,7 @@
             {
               "node_type": "item",
               "title": "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "teacherpeterpan/self-correction-llm-papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -767,7 +767,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Large Language Models Attribution, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "HITsz-TMG/awesome-llm-attributions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,7 +795,7 @@
             {
               "node_type": "item",
               "title": "The Rise and Potential of Large Language Model Based Agents: A Survey, 2023.09 [paper]",
-              "description": "[project]",
+              "description": "WooooDyy/LLM-Agent-Paper-List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Large Language Model based Autonomous Agents, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "Paitesanshi/LLM-Agent-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -843,7 +843,7 @@
             {
               "node_type": "item",
               "title": "Large Multimodal Agents: A Survey, 2024.02 [paper]",
-              "description": "[project]",
+              "description": "jun0wanan/awesome-large-multimodal-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -871,7 +871,7 @@
             {
               "node_type": "item",
               "title": "The Oscars of AI Theater: A Survey on Role-Playing with Language Models, 2024.09 [paper]",
-              "description": "[project]",
+              "description": "nuochenpku/Awesome-Role-Play-Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -892,7 +892,7 @@
             {
               "node_type": "item",
               "title": "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization, 2024.06 [paper]",
-              "description": "[project]",
+              "description": "MiuLab/PersonaLLM-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -902,7 +902,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-10-11T08:18:02Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "MiuLab",
                 "repo": "PersonaLLM-Survey",
                 "stars": 119,
@@ -920,7 +920,7 @@
             {
               "node_type": "item",
               "title": "Efficient Large Language Models: A Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "AIoT-MLSys-Lab/Efficient-LLMs-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -954,7 +954,7 @@
             {
               "node_type": "item",
               "title": "Datasets for Large Language Models: A Comprehensive Survey, 2024.02 [paper]",
-              "description": "[project]",
+              "description": "lmmlzn/Awesome-LLMs-Datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -975,7 +975,7 @@
             {
               "node_type": "item",
               "title": "Data Management For Large Language Models: A Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "ZigeW/data_management_LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1009,7 +1009,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning with Pre-Trained Models: A Survey, 2024.01 [paper]",
-              "description": "[project]",
+              "description": "LAMDA-CL/LAMDA-PILOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,7 +1055,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Multimodal Large Language Models, 2023.06 [paper]",
-              "description": "[project]",
+              "description": "BradyFU/Awesome-Multimodal-Large-Language-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1065,7 +1065,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
                 "stars": 18042,
@@ -1090,7 +1090,7 @@
             {
               "node_type": "item",
               "title": "Video Understanding with Large Language Models: A Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "yunlong10/Awesome-LLMs-for-Video-Understanding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1111,7 +1111,7 @@
             {
               "node_type": "item",
               "title": "Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [paper]",
-              "description": "[project]",
+              "description": "awaisrauf/Awesome-CV-Foundational-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1132,7 +1132,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [paper]",
-              "description": "[project]",
+              "description": "swordlidev/Evaluation-Multimodal-LLMs-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1153,7 +1153,7 @@
             {
               "node_type": "item",
               "title": "Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [paper]",
-              "description": "[project]",
+              "description": "palchenli/VL-Instruction-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1174,7 +1174,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Bridging VLMs and Synthetic Data. 2025,05 [paper]",
-              "description": "[project]",
+              "description": "mghiasvand1/Awesome-VLM-Synthetic-Data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1202,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "Sparks of large audio models: A survey and outlook, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "EmulationAI/awesome-large-audio-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1244,7 +1244,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Language Models for Code, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "codefuse-ai/Awesome-Code-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1257,7 +1257,7 @@
                 "open_issues": 23,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3442,
+                "stars": 3443,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1275,7 +1275,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond, 2024.03 [paper]",
-              "description": "[project]",
+              "description": "QiushiSun/Awesome-Code-Intelligence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "yueyueL/ReliableLM4Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1341,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Large Language Models in Medicine: Progress, Application, and Challenge, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "AI-in-Health/MedLLMsPracticalGuide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2046,
+                "stars": 2045,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1368,7 +1368,7 @@
             {
               "node_type": "item",
               "title": "Large AI Models in Health Informatics: Applications, Challenges, and the Future, 2023.03 [paper]",
-              "description": "[project]",
+              "description": "Jianing-Qiu/Awesome-Healthcare-Foundation-Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1389,7 +1389,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "mingze-yuan/Awesome-LLM-Healthcare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1434,7 +1434,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Large Language Models for Recommendation, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "WLiK/LLM4Rec-Awesome-Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2316,
+                "stars": 2318,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1462,7 +1462,7 @@
             {
               "node_type": "item",
               "title": "How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [paper]",
-              "description": "[project]",
+              "description": "CHIANGEL/Awesome-LLM-for-RecSys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1492,7 +1492,7 @@
             {
               "node_type": "item",
               "title": "User Modeling in the Era of Large Language Models: Current Research and Future Directions, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "TamSiuhin/LLM-UM-Reading",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1502,7 +1502,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-04-08T17:47:46Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "TamSiuhin",
                 "repo": "LLM-UM-Reading",
                 "stars": 154,
@@ -1526,7 +1526,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models for Information Retrieval: A Survey, 2023.08 [paper]",
-              "description": "[project]",
+              "description": "RUC-NLPIR/LLM4IR-Survey",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1558,7 +1558,7 @@
             {
               "node_type": "item",
               "title": "A Survey of Large Language Models for Autonomous Driving, 2023.11 [paper]",
-              "description": "[project]",
+              "description": "Thinklab-SJTU/Awesome-LLM4AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1571,7 +1571,7 @@
                 "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1591,7 +1591,7 @@
             {
               "node_type": "item",
               "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1631,7 +1631,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Detection of LLMs-Generated Content, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "Xianjun-Yang/Awesome_papers_on_LLMs_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions, 2023.10 [paper]",
-              "description": "[project]",
+              "description": "NLP2CT/LLM-generated-Text-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1690,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models for Generative Information Extraction: A Survey, 2023.12 [paper]",
-              "description": "[project]",
+              "description": "quqxui/Awesome-LLM4IE-Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1732,7 +1732,7 @@
             {
               "node_type": "item",
               "title": "Large Language Models for Data Annotation: A Survey, 2024.02 [paper]",
-              "description": "[project]",
+              "description": "Zhen-Tan-dmml/LLM4Annotation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1760,7 +1760,7 @@
             {
               "node_type": "item",
               "title": "A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges, 2024.03 [paper]",
-              "description": "[project]",
+              "description": "BAAI-Agents/GPA-LM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:44:04.617Z",
+    "last_updated": "2026-10-03T04:25:24.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
