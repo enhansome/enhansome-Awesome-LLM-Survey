@@ -2,7 +2,7 @@
 
 [![Awesome LLM Survey](https://img.shields.io/static/v1?label=\&message=Awesome+LLM+Survey\&color=black\&logo=awesomelists)](https://github.com/HqWu-HITCS/Awesome-LLM-Survey) ⭐ 445 | 🐛 1 | 📅 2025-05-25
 ![](https://img.shields.io/github/last-commit/HqWu-HITCS/Awesome-LLM-Survey?color=green)
-[![GitHub Repo stars](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-LLM-Survey?style=social)](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,584 | 🐛 1 | 📅 2023-12-26
+[![GitHub Repo stars](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-LLM-Survey?style=social)](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,582 | 🐛 1 | 📅 2023-12-26
 
 This repo aims to record survey of LLM, including instruction tuning, human alignment, LLM agent, hallucination, multi-modal, etc.
 
@@ -71,7 +71,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## General Survey
 
-* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,224 | 🐛 30 | 🌐 Python | 📅 2025-03-11
+* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,225 | 🐛 30 | 🌐 Python | 📅 2025-03-11
 
 * Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,207 | 🐛 17 | 📅 2026-04-08
 
@@ -97,7 +97,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 * Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning, 2023.03 [\[paper\]](https://arxiv.org/pdf/2303.10475.pdf) [\[project\]](https://github.com/kbsdjames/awesome-LLM-preference-learning) ⭐ 193 | 🐛 1 | 📅 2024-10-28
 
-* Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [\[paper\]](https://arxiv.org/abs/2311.08172)[\[project\]](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 90 | 🐛 4 | 📅 2023-11-25
+* Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [\[paper\]](https://arxiv.org/abs/2311.08172)[\[project\]](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 89 | 🐛 4 | 📅 2023-11-25
 
 * Instruction Tuning for Large Language Models: A Survey, 2023.08 [\[paper\]](https://arxiv.org/abs/2308.10792)
 
@@ -296,15 +296,15 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,043 | 🐛 116 | 📅 2026-10-01
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,044 | 🐛 116 | 📅 2026-10-01
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,292 | 🐛 7 | 📅 2026-09-27
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,293 | 🐛 7 | 📅 2026-09-27
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 550 | 🐛 5 | 📅 2024-11-07
 
 * A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [\[paper\]](https://arxiv.org/pdf/2408.08632)[\[project\]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) ⭐ 160 | 🐛 2 | 📅 2026-07-13
 
-* Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [\[paper\]](https://arxiv.org/abs/2311.08172)[\[project\]](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 90 | 🐛 4 | 📅 2023-11-25
+* Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [\[paper\]](https://arxiv.org/abs/2311.08172)[\[project\]](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 89 | 🐛 4 | 📅 2023-11-25
 
 * A Survey on Bridging VLMs and Synthetic Data. 2025,05 [\[paper\]](https://openreview.net/pdf?id=ThjDCZOljE)[\[project\]](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data) ⭐ 39 | 🐛 1 | 📅 2025-08-29
 
@@ -391,7 +391,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Autonomous Driving
 
-* A Survey of Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.01043)[\[project\]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ⭐ 1,891 | 🐛 1 | 📅 2026-09-29
+* A Survey of Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.01043)[\[project\]](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) ⭐ 1,890 | 🐛 1 | 📅 2026-09-29
 * A Survey on Multimodal Large Language Models for Autonomous Driving, 2023.11 [\[paper\]](https://arxiv.org/pdf/2311.12320.pdf)
 
 ### LLM for Time Series
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
