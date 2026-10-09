@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12224,
+            "stars": 12226,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -703,7 +703,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2928,
+                "stars": 2927,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -988,7 +988,7 @@
                 "open_issues": 0,
                 "owner": "ZigeW",
                 "repo": "data_management_LLM",
-                "stars": 343,
+                "stars": 342,
                 "topics": [
                   "instruction-tuning",
                   "large-language-models",
@@ -1068,7 +1068,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18050,
+                "stars": 18052,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1288,7 +1288,7 @@
                 "open_issues": 2,
                 "owner": "QiushiSun",
                 "repo": "Awesome-Code-Intelligence",
-                "stars": 282,
+                "stars": 281,
                 "topics": [
                   "code-generation",
                   "large-language-models"
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:36:04.612Z",
+    "last_updated": "2026-10-09T15:17:54.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
@@ -1817,7 +1817,7 @@
       "open_issues": 1,
       "owner": "AiHubCN",
       "repo": "Awesome-LLM-Survey",
-      "stars": 446,
+      "stars": 445,
       "topics": [
         "awesome-list",
         "large-language-models",
