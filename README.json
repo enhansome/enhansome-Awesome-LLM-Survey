@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12226,
+            "stars": 12225,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10205,
+            "stars": 10204,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "teacherpeterpan",
                 "repo": "self-correction-llm-papers",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": [
                   "efficient-deep-learning",
                   "generative-ai",
@@ -967,7 +967,7 @@
                 "open_issues": 8,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1481,
+                "stars": 1480,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 116,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18055,
+                "stars": 18053,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1212,7 +1212,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-08T02:56:30Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "EmulationAI",
                 "repo": "awesome-large-audio-models",
                 "stars": 742,
@@ -1354,7 +1354,7 @@
                 "open_issues": 0,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1402,7 +1402,7 @@
                 "open_issues": 0,
                 "owner": "mingze-yuan",
                 "repo": "Awesome-LLM-Healthcare",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "agent",
                   "awesome",
@@ -1571,7 +1571,7 @@
                 "open_issues": 1,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1894,
+                "stars": 1895,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1604,7 +1604,7 @@
                 "open_issues": 3,
                 "owner": "qingsongedu",
                 "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                "stars": 1234,
+                "stars": 1235,
                 "topics": [
                   "anomalydetection",
                   "autoscaling",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:54:39.313Z",
+    "last_updated": "2026-10-12T17:53:39.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
