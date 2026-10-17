@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12230,
+            "stars": 12231,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 17,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10204,
+            "stars": 10205,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -369,7 +369,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-03-11T12:49:15Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "LuckyyySTA",
                 "repo": "Awesome-LLM-hallucination",
                 "stars": 339,
@@ -703,7 +703,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2930,
+                "stars": 2931,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1068,7 +1068,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18058,
+                "stars": 18057,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1099,8 +1099,8 @@
                 "id": 666960664,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-10T06:07:41Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-17T08:14:13Z",
+                "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
                 "stars": 3297,
@@ -1215,7 +1215,7 @@
                 "open_issues": 3,
                 "owner": "EmulationAI",
                 "repo": "awesome-large-audio-models",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "audio-ai",
                   "audio-processing",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:14:56.799Z",
+    "last_updated": "2026-10-17T12:10:57.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
