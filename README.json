@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12231,
+            "stars": 12233,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -117,7 +117,7 @@
                 "open_issues": 1,
                 "owner": "KbsdJames",
                 "repo": "Awesome-LLM-Preference-Learning",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18057,
+                "stars": 18056,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1257,7 +1257,7 @@
                 "open_issues": 23,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3446,
+                "stars": 3445,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1539,7 +1539,7 @@
                 "open_issues": 0,
                 "owner": "RUC-NLPIR",
                 "repo": "LLM4IR-Survey",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "information-retrieval",
                   "large-language-models",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:10:57.049Z",
+    "last_updated": "2026-10-18T12:36:20.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
