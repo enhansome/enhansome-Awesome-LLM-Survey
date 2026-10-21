@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12233,
+            "stars": 12232,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -808,7 +808,7 @@
                 "open_issues": 34,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8253,
+                "stars": 8255,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -1065,10 +1065,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-01T02:35:51Z",
-                "open_issues": 119,
+                "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18054,
+                "stars": 18057,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3299,
+                "stars": 3298,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 24,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3444,
+                "stars": 3445,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2322,
+                "stars": 2324,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1475,7 +1475,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1571,7 +1571,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1897,
+                "stars": 1898,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:32:58.161Z",
+    "last_updated": "2026-10-21T13:47:15.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
