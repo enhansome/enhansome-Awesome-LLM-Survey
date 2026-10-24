@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12230,
+            "stars": 12229,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10206,
+            "stars": 10207,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -233,7 +233,7 @@
                 "open_issues": 0,
                 "owner": "zchuz",
                 "repo": "CoT-Reasoning-Survey",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "chain-of-thought",
                   "chain-of-thought-reasoning",
@@ -261,7 +261,7 @@
                 "open_issues": 0,
                 "owner": "Zoeyyao27",
                 "repo": "CoT-Igniting-Agent",
-                "stars": 364,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -456,7 +456,7 @@
                 "open_issues": 33,
                 "owner": "tjunlp-lab",
                 "repo": "Awesome-LLMs-Evaluation-Papers",
-                "stars": 810,
+                "stars": 811,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -484,7 +484,7 @@
                 "open_issues": 19,
                 "owner": "zzli2022",
                 "repo": "Awesome-System2-Reasoning-LLM",
-                "stars": 1357,
+                "stars": 1356,
                 "topics": [
                   "benchmark",
                   "macro-action",
@@ -560,7 +560,7 @@
                 "open_issues": 10,
                 "owner": "reasoning-survey",
                 "repo": "Awesome-Reasoning-Foundation-Models",
-                "stars": 660,
+                "stars": 659,
                 "topics": [
                   "foundation-models",
                   "llm",
@@ -675,7 +675,7 @@
                 "open_issues": 1,
                 "owner": "wangcunxiang",
                 "repo": "LLM-Factuality-Survey",
-                "stars": 340,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -700,10 +700,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-04T08:32:35Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2929,
+                "stars": 2930,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -808,7 +808,7 @@
                 "open_issues": 34,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8256,
+                "stars": 8257,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -884,7 +884,7 @@
                 "open_issues": 0,
                 "owner": "nuochenpku",
                 "repo": "Awesome-Role-Play-Papers",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18063,
+                "stars": 18066,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yunlong10",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3299,
+                "stars": 3300,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1381,7 +1381,7 @@
                 "open_issues": 3,
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
-                "stars": 525,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1475,7 +1475,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1562,
+                "stars": 1563,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:25:29.487Z",
+    "last_updated": "2026-10-24T12:40:10.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
