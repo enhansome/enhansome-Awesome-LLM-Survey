@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12226,
+            "stars": 12225,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10207,
+            "stars": 10208,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -703,7 +703,7 @@
                 "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2930,
+                "stars": 2931,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -988,7 +988,7 @@
                 "open_issues": 0,
                 "owner": "ZigeW",
                 "repo": "data_management_LLM",
-                "stars": 342,
+                "stars": 343,
                 "topics": [
                   "instruction-tuning",
                   "large-language-models",
@@ -1064,11 +1064,11 @@
                 "id": 642642539,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-27T03:23:34Z",
+                "last_commit": "2026-10-29T06:10:45Z",
                 "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18070,
+                "stars": 18069,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3302,
+                "stars": 3303,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1665,7 +1665,7 @@
                 "open_issues": 1,
                 "owner": "NLP2CT",
                 "repo": "LLM-generated-Text-Detection",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "ai-generated",
                   "authorship",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:05:27.645Z",
+    "last_updated": "2026-10-29T15:13:05.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
