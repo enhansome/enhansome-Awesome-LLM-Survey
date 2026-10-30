@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12225,
+            "stars": 12224,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2139,
+                "stars": 2141,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -703,7 +703,7 @@
                 "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2931,
+                "stars": 2932,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -835,7 +835,7 @@
                 "open_issues": 18,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2913,
+                "stars": 2914,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -930,10 +930,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-06-23T01:57:02Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
-                "stars": 1258,
+                "stars": 1259,
                 "topics": [
                   "efficient-deep-learning",
                   "generative-ai",
@@ -967,7 +967,7 @@
                 "open_issues": 8,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1482,
+                "stars": 1483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1022,7 +1022,7 @@
                 "open_issues": 6,
                 "owner": "LAMDA-CL",
                 "repo": "LAMDA-PILOT",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -1068,7 +1068,7 @@
                 "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18069,
+                "stars": 18068,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3303,
+                "stars": 3304,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 24,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3445,
+                "stars": 3446,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1354,7 +1354,7 @@
                 "open_issues": 1,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2047,
+                "stars": 2048,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1447,7 +1447,7 @@
                 "open_issues": 6,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2326,
+                "stars": 2327,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1475,7 +1475,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1567,
+                "stars": 1566,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1571,7 +1571,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1604,7 +1604,7 @@
                 "open_issues": 3,
                 "owner": "qingsongedu",
                 "repo": "Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-                "stars": 1237,
+                "stars": 1238,
                 "topics": [
                   "anomalydetection",
                   "autoscaling",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:13:05.937Z",
+    "last_updated": "2026-10-30T15:02:13.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
