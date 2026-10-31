@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12224,
+            "stars": 12228,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10208,
+            "stars": 10209,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -641,7 +641,7 @@
                 "open_issues": 0,
                 "owner": "PeterGriffinJin",
                 "repo": "Awesome-Language-Model-on-Graphs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome-resources",
                   "generative-ai",
@@ -929,8 +929,8 @@
                 "id": 629520282,
                 "language": null,
                 "license": null,
-                "last_commit": "2025-06-23T01:57:02Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-30T20:38:14Z",
+                "open_issues": 2,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
                 "stars": 1259,
@@ -1022,7 +1022,7 @@
                 "open_issues": 6,
                 "owner": "LAMDA-CL",
                 "repo": "LAMDA-PILOT",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -1065,10 +1065,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-29T06:10:45Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18068,
+                "stars": 18069,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 7,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3304,
+                "stars": 3305,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 24,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3446,
+                "stars": 3448,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:02:13.286Z",
+    "last_updated": "2026-10-31T14:30:48.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
