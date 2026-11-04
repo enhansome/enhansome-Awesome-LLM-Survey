@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10211,
+            "stars": 10212,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2142,
+                "stars": 2141,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -699,11 +699,11 @@
                 "id": 638156745,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:32:35Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-04T06:04:29Z",
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2933,
+                "stars": 2936,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -808,7 +808,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8262,
+                "stars": 8261,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -835,7 +835,7 @@
                 "open_issues": 18,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2914,
+                "stars": 2911,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 117,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18077,
+                "stars": 18076,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1257,7 +1257,7 @@
                 "open_issues": 24,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3450,
+                "stars": 3451,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1354,7 +1354,7 @@
                 "open_issues": 2,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:13:53.960Z",
+    "last_updated": "2026-11-04T16:18:11.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
