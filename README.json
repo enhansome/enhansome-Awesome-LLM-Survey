@@ -808,7 +808,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8263,
+                "stars": 8264,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -1351,10 +1351,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-26T05:59:41Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2050,
+                "stars": 2051,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1378,7 +1378,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-04-25T06:08:16Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
                 "stars": 525,
@@ -1640,8 +1640,8 @@
                 "id": 709156508,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2025-06-19T20:25:17Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-07T19:08:34Z",
+                "open_issues": 0,
                 "owner": "Xianjun-Yang",
                 "repo": "Awesome_papers_on_LLMs_detection",
                 "stars": 294,
@@ -1703,7 +1703,7 @@
                 "open_issues": 1,
                 "owner": "quqxui",
                 "repo": "Awesome-LLM4IE-Papers",
-                "stars": 1064,
+                "stars": 1063,
                 "topics": [
                   "cross-domain-learning",
                   "data-augmentation",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:53:31.599Z",
+    "last_updated": "2026-11-08T15:10:44.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
