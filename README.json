@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12231,
+            "stars": 12227,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10211,
+            "stars": 10210,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -933,7 +933,7 @@
                 "open_issues": 2,
                 "owner": "AIoT-MLSys-Lab",
                 "repo": "Efficient-LLMs-Survey",
-                "stars": 1260,
+                "stars": 1261,
                 "topics": [
                   "efficient-deep-learning",
                   "generative-ai",
@@ -1068,7 +1068,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18080,
+                "stars": 18081,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3308,
+                "stars": 3307,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 25,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3452,
+                "stars": 3454,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T18:47:17.923Z",
+    "last_updated": "2026-11-10T16:24:40.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
