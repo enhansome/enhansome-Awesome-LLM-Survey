@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12228,
+            "stars": 12229,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -52,7 +52,7 @@
             "open_issues": 16,
             "owner": "Mooler0410",
             "repo": "LLMsPracticalGuide",
-            "stars": 10212,
+            "stars": 10213,
             "topics": [
               "large-language-models",
               "natural-language-processing",
@@ -808,7 +808,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8264,
+                "stars": 8263,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -1068,7 +1068,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18083,
+                "stars": 18087,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:21:30.056Z",
+    "last_updated": "2026-11-14T15:03:43.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
