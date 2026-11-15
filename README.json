@@ -300,7 +300,7 @@
               "description": "mghiasvand1/E2TP",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 1017596948,
@@ -338,7 +338,7 @@
                 "open_issues": 19,
                 "owner": "Tongji-KGLLM",
                 "repo": "RAG-Survey",
-                "stars": 2139,
+                "stars": 2140,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -641,7 +641,7 @@
                 "open_issues": 0,
                 "owner": "PeterGriffinJin",
                 "repo": "Awesome-Language-Model-on-Graphs",
-                "stars": 1000,
+                "stars": 1002,
                 "topics": [
                   "awesome-resources",
                   "generative-ai",
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -808,7 +808,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8263,
+                "stars": 8264,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -835,7 +835,7 @@
                 "open_issues": 18,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18087,
+                "stars": 18088,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1177,13 +1177,13 @@
               "description": "mghiasvand1/Awesome-VLM-Synthetic-Data",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 985083271,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-21T14:54:51Z",
+                "last_commit": "2026-11-15T12:54:40Z",
                 "open_issues": 0,
                 "owner": "mghiasvand1",
                 "repo": "Awesome-VLM-Synthetic-Data",
@@ -1354,7 +1354,7 @@
                 "open_issues": 1,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2051,
+                "stars": 2052,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:03:43.524Z",
+    "last_updated": "2026-11-15T15:39:09.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
