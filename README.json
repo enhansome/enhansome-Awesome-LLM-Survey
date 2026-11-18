@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12230,
+            "stars": 12234,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -675,7 +675,7 @@
                 "open_issues": 1,
                 "owner": "wangcunxiang",
                 "repo": "LLM-Factuality-Survey",
-                "stars": 339,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -808,7 +808,7 @@
                 "open_issues": 35,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8265,
+                "stars": 8266,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -835,7 +835,7 @@
                 "open_issues": 18,
                 "owner": "Paitesanshi",
                 "repo": "LLM-Agent-Survey",
-                "stars": 2913,
+                "stars": 2912,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1022,7 +1022,7 @@
                 "open_issues": 6,
                 "owner": "LAMDA-CL",
                 "repo": "LAMDA-PILOT",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -1068,7 +1068,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18088,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1571,7 +1571,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "Awesome-LLM4AD",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": [
                   "large-language-models",
                   "vision-language-action-model",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:37:05.268Z",
+    "last_updated": "2026-11-18T17:14:46.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
