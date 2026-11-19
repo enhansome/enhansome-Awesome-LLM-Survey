@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12234,
+            "stars": 12236,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -453,7 +453,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-05-08T17:36:48Z",
-                "open_issues": 34,
+                "open_issues": 32,
                 "owner": "tjunlp-lab",
                 "repo": "Awesome-LLMs-Evaluation-Papers",
                 "stars": 813,
@@ -703,7 +703,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1257,7 +1257,7 @@
                 "open_issues": 26,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3455,
+                "stars": 3454,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1354,7 +1354,7 @@
                 "open_issues": 1,
                 "owner": "AI-in-Health",
                 "repo": "MedLLMsPracticalGuide",
-                "stars": 2051,
+                "stars": 2052,
                 "topics": [
                   "ai-in-medicine",
                   "clinical-ai",
@@ -1381,7 +1381,7 @@
                 "open_issues": 5,
                 "owner": "Jianing-Qiu",
                 "repo": "Awesome-Healthcare-Foundation-Models",
-                "stars": 526,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:14:46.286Z",
+    "last_updated": "2026-11-19T17:21:59.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
