@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12236,
+            "stars": 12237,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -967,7 +967,7 @@
                 "open_issues": 8,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
-                "stars": 1483,
+                "stars": 1484,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1068,7 +1068,7 @@
                 "open_issues": 120,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18090,
+                "stars": 18091,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -1257,7 +1257,7 @@
                 "open_issues": 26,
                 "owner": "codefuse-ai",
                 "repo": "Awesome-Code-LLM",
-                "stars": 3453,
+                "stars": 3454,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1447,7 +1447,7 @@
                 "open_issues": 7,
                 "owner": "WLiK",
                 "repo": "LLM4Rec-Awesome-Papers",
-                "stars": 2331,
+                "stars": 2332,
                 "topics": [
                   "awesome",
                   "datasets",
@@ -1475,7 +1475,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1566,
+                "stars": 1567,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:57:15.926Z",
+    "last_updated": "2026-11-21T16:07:52.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
