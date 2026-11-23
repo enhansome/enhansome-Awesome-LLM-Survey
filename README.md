@@ -182,7 +182,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 * From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,358 | 🐛 19 | 🌐 Python | 📅 2025-06-08
 * Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,009 | 🐛 0 | 📅 2025-05-21
-* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 664 | 🐛 11 | 📅 2026-09-03
+* A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 664 | 🐛 12 | 📅 2026-09-03
 
 ### Explainability for LLM
 
@@ -216,7 +216,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Knowledge for LLM
 
-* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,943 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07
+* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,944 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07
 
 * A Survey on Knowledge Distillation of Large Language Models, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.13116.pdf)
 
@@ -296,13 +296,13 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,092 | 🐛 120 | 📅 2026-10-29
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,095 | 🐛 120 | 📅 2026-10-29
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,310 | 🐛 7 | 📅 2026-11-11
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,311 | 🐛 7 | 📅 2026-11-11
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 548 | 🐛 5 | 📅 2024-11-07
 
-* A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [\[paper\]](https://arxiv.org/pdf/2408.08632)[\[project\]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) ⭐ 161 | 🐛 2 | 📅 2026-07-13
+* A Survey on Benchmarks of Multimodal Large Language Models. 2024,08 [\[paper\]](https://arxiv.org/pdf/2408.08632)[\[project\]](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) ⭐ 161 | 🐛 3 | 📅 2026-07-13
 
 * Vision-Language Instruction Tuning: A Review and Analysis, 2023,11 [\[paper\]](https://arxiv.org/abs/2311.08172)[\[project\]](https://github.com/palchenli/VL-Instruction-Tuning) ⭐ 89 | 🐛 4 | 📅 2023-11-25
 
@@ -373,7 +373,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Recommendation
 
-* A Survey on Large Language Models for Recommendation, 2023.08 [\[paper\]](https://arxiv.org/abs/2305.19860)[\[project\]](https://github.com/WLiK/LLM4Rec-Awesome-Papers) ⭐ 2,332 | 🐛 7 | 📅 2025-03-17
+* A Survey on Large Language Models for Recommendation, 2023.08 [\[paper\]](https://arxiv.org/abs/2305.19860)[\[project\]](https://github.com/WLiK/LLM4Rec-Awesome-Papers) ⭐ 2,333 | 🐛 7 | 📅 2025-03-17
 * How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.05817)[\[project\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,567 | 🐛 5 | 📅 2026-10-26
 * User Modeling in the Era of Large Language Models: Current Research and Future Directions, 2023.12 [\[paper\]](https://doi.org/10.48550/arXiv.2312.11518)[\[project\]](https://github.com/TamSiuhin/LLM-UM-Reading) ⭐ 155 | 🐛 2 | 📅 2024-04-08
 * Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.11143.pdf)
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
