@@ -296,9 +296,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,095 | 🐛 120 | 📅 2026-10-29
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,097 | 🐛 121 | 📅 2026-10-29
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,311 | 🐛 7 | 📅 2026-11-11
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,312 | 🐛 8 | 📅 2026-11-11
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 548 | 🐛 5 | 📅 2024-11-07
 
@@ -373,7 +373,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Recommendation
 
-* A Survey on Large Language Models for Recommendation, 2023.08 [\[paper\]](https://arxiv.org/abs/2305.19860)[\[project\]](https://github.com/WLiK/LLM4Rec-Awesome-Papers) ⭐ 2,333 | 🐛 7 | 📅 2025-03-17
+* A Survey on Large Language Models for Recommendation, 2023.08 [\[paper\]](https://arxiv.org/abs/2305.19860)[\[project\]](https://github.com/WLiK/LLM4Rec-Awesome-Papers) ⭐ 2,334 | 🐛 7 | 📅 2025-03-17
 * How Can Recommender Systems Benefit from Large Language Models: A Survey, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.05817)[\[project\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,567 | 🐛 5 | 📅 2026-10-26
 * User Modeling in the Era of Large Language Models: Current Research and Future Directions, 2023.12 [\[paper\]](https://doi.org/10.48550/arXiv.2312.11518)[\[project\]](https://github.com/TamSiuhin/LLM-UM-Reading) ⭐ 155 | 🐛 2 | 📅 2024-04-08
 * Foundation Models for Recommender Systems: A Survey and New Perspectives, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.11143.pdf)
@@ -400,7 +400,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Detection of LLMs-Generated Content
 
-* A Survey on Detection of LLMs-Generated Content, 2023.10 [\[paper\]](https://arxiv.org/abs/2310.15654)[\[project\]](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection) ⭐ 294 | 🐛 0 | 📅 2026-11-07
+* A Survey on Detection of LLMs-Generated Content, 2023.10 [\[paper\]](https://arxiv.org/abs/2310.15654)[\[project\]](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection) ⭐ 293 | 🐛 0 | 📅 2026-11-07
 * A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions, 2023.10 [\[paper\]](https://arxiv.org/pdf/2310.14724.pdf)
   [\[project\]](https://github.com/NLP2CT/LLM-generated-Text-Detection) ⭐ 255 | 🐛 1 | 📅 2026-08-03
 * Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text, 2023.09 [\[paper\]](https://arxiv.org/pdf/2309.07689.pdf)
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
