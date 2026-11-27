@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12238,
+            "stars": 12239,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -700,7 +700,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-07T06:22:27Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
                 "stars": 2947,
@@ -808,7 +808,7 @@
                 "open_issues": 36,
                 "owner": "WooooDyy",
                 "repo": "LLM-Agent-Paper-List",
-                "stars": 8265,
+                "stars": 8267,
                 "topics": [
                   "agent",
                   "large-language-models",
@@ -964,7 +964,7 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-11T03:47:03Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "lmmlzn",
                 "repo": "Awesome-LLMs-Datasets",
                 "stars": 1485,
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "yoloytang",
                 "repo": "Awesome-LLMs-for-Video-Understanding",
-                "stars": 3312,
+                "stars": 3311,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1124,7 +1124,7 @@
                 "open_issues": 5,
                 "owner": "awaisrauf",
                 "repo": "Awesome-CV-Foundational-Models",
-                "stars": 548,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:01.064Z"
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:25:00.948Z",
+    "last_updated": "2026-11-27T18:10:56.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome Collection for LLM Survey",
