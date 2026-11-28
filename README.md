@@ -71,9 +71,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## General Survey
 
-* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,239 | 🐛 30 | 🌐 Python | 📅 2025-03-11
+* A Survey of Large Language Models, 2023.11 [\[paper\]](https://arxiv.org/abs/2303.18223)[\[project\]](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,237 | 🐛 30 | 🌐 Python | 📅 2025-03-11
 
-* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,216 | 🐛 16 | 📅 2026-04-08
+* Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond, 2023.04  [\[paper\]](https://arxiv.org/abs/2304.13712)[\[project\]](https://github.com/Mooler0410/LLMsPracticalGuide) ⭐ 10,215 | 🐛 16 | 📅 2026-04-08
 
 * Large language models: a comprehensive survey of its applications, challenges, limitations, and future prospects, 2023.12 [\[paper\]](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v4) [\[project\]](https://github.com/anas-zafar/LLM-Survey) ⭐ 42 | 🐛 0 | 📅 2025-07-21
 
@@ -181,7 +181,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ### Reasoning with LLM
 
 * From System 1 to System 2: A Survey of Reasoning Large Language Models, 2025.02[\[paper\]](https://arxiv.org/pdf/2502.17419)[\[project\]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM) ⭐ 1,357 | 🐛 19 | 🌐 Python | 📅 2025-06-08
-* Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,009 | 🐛 0 | 📅 2025-05-21
+* Reasoning with Language Model Prompting: A Survey, 2022.12 [\[paper\]](https://arxiv.org/abs/2212.09597)[\[project\]](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,008 | 🐛 0 | 📅 2025-05-21
 * A Survey of Reasoning with Foundation Models, 2023.12 [\[papaer\]](https://arxiv.org/pdf/2312.11562.pdf)[\[project\]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 664 | 🐛 12 | 📅 2026-09-03
 
 ### Explainability for LLM
@@ -216,7 +216,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Knowledge for LLM
 
-* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,947 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-07
+* Editing Large Language Models: Problems, Methods, and Opportunities, 2023.05 [\[paper\]](https://arxiv.org/abs/2305.13172)[\[project\]](https://github.com/zjunlp/EasyEdit) ⭐ 2,946 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-07
 
 * A Survey on Knowledge Distillation of Large Language Models, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.13116.pdf)
 
@@ -296,9 +296,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### Visual LLM
 
-* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,097 | 🐛 121 | 📅 2026-10-29
+* A Survey on Multimodal Large Language Models, 2023.06 [\[paper\]](https://arxiv.org/abs/2306.13549)[\[project\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,096 | 🐛 121 | 📅 2026-10-29
 
-* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,311 | 🐛 8 | 📅 2026-11-11
+* Video Understanding with Large Language Models: A Survey, 2023.12 [\[paper\]](https://arxiv.org/pdf/2312.17432.pdf) [\[project\]](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) ⭐ 3,310 | 🐛 8 | 📅 2026-11-11
 
 * Foundational Models Defining a New Era in Vision: A Survey and Outlook, 2023.07 [\[paper\]](https://arxiv.org/pdf/2307.13721.pdf)[\[project\]](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) ⭐ 547 | 🐛 5 | 📅 2024-11-07
 
@@ -436,7 +436,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ### LLM for Game
 
-* A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges, 2024.03 [\[paper\]](https://arxiv.org/pdf/2403.10249.pdf) [\[project\]](https://github.com/BAAI-Agents/GPA-LM) ⭐ 161 | 🐛 1 | 📅 2024-09-03
+* A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges, 2024.03 [\[paper\]](https://arxiv.org/pdf/2403.10249.pdf) [\[project\]](https://github.com/BAAI-Agents/GPA-LM) ⭐ 160 | 🐛 1 | 📅 2024-09-03
 * Large Language Models and Games: A Survey and Roadmap, 2024.02 [\[paper\]](https://arxiv.org/pdf/2402.18659.pdf)
 
 ## Star History
@@ -451,4 +451,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
